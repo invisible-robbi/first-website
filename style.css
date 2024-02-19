@@ -1,0 +1,22 @@
+.programmierer{
+    font-size: 100px;
+}
+.mdl-list__item-primary-content{
+    font-size: 40px;
+}
+.btn-primary{
+    size: 50px;
+}
+.dark{
+    background-color: darkgrey;
+}
+.backgroundchange{
+    border-radius: 10px;
+    border-width: 10px;
+    border-bottom: 10px;
+    margin-left: 20cm;
+    font-size: 50px;
+}
+.programmierer{
+    margin-bottom: 1cm;
+}
